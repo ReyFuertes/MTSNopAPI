@@ -1,0 +1,54 @@
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\Plugins\Misc.SendinBlue\SendinBlue.ClientV3.45.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\Plugins\Misc.SendinBlue\SendinBlueMarketingAutomation.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\Plugins\Misc.SendinBlue\Content\styles.css
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\Plugins\Misc.SendinBlue\logo.jpg
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\Plugins\Misc.SendinBlue\plugin.json
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\Plugins\Misc.SendinBlue\Views\Configure.cshtml
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\Plugins\Misc.SendinBlue\Views\PublicInfo.cshtml
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\Plugins\Misc.SendinBlue\Views\_ViewImports.cshtml
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\Plugins\Misc.SendinBlue\RestSharp.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\Plugins\Misc.SendinBlue\Nop.Plugin.Misc.SendinBlue.deps.json
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\Plugins\Misc.SendinBlue\Nop.Plugin.Misc.SendinBlue.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\Plugins\Misc.SendinBlue\Nop.Plugin.Misc.SendinBlue.pdb
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Plugins\Nop.Plugin.Misc.SendinBlue\obj\Debug\netcoreapp2.2\Nop.Plugin.Misc.SendinBlue.csprojAssemblyReference.cache
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Plugins\Nop.Plugin.Misc.SendinBlue\obj\Debug\netcoreapp2.2\Nop.Plugin.Misc.SendinBlue.AssemblyInfoInputs.cache
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Plugins\Nop.Plugin.Misc.SendinBlue\obj\Debug\netcoreapp2.2\Nop.Plugin.Misc.SendinBlue.AssemblyInfo.cs
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Plugins\Nop.Plugin.Misc.SendinBlue\obj\Debug\netcoreapp2.2\Nop.Plugin.Misc.SendinBlue.csproj.CopyComplete
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Plugins\Nop.Plugin.Misc.SendinBlue\obj\Debug\netcoreapp2.2\Nop.Plugin.Misc.SendinBlue.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Plugins\Nop.Plugin.Misc.SendinBlue\obj\Debug\netcoreapp2.2\Nop.Plugin.Misc.SendinBlue.pdb
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\Plugins\Misc.SendinBlue\SendinBlue.ClientV3.45.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\Plugins\Misc.SendinBlue\SendinBlueMarketingAutomation.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\Plugins\Misc.SendinBlue\Content\styles.css
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\Plugins\Misc.SendinBlue\logo.jpg
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\Plugins\Misc.SendinBlue\plugin.json
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\Plugins\Misc.SendinBlue\Views\Configure.cshtml
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\Plugins\Misc.SendinBlue\Views\PublicInfo.cshtml
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\Plugins\Misc.SendinBlue\Views\_ViewImports.cshtml
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\Plugins\Misc.SendinBlue\RestSharp.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\Plugins\Misc.SendinBlue\Nop.Plugin.Misc.SendinBlue.deps.json
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\Plugins\Misc.SendinBlue\Nop.Plugin.Misc.SendinBlue.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\Plugins\Misc.SendinBlue\Nop.Plugin.Misc.SendinBlue.pdb
+D:\MTSNopcommercebackup\src\Plugins\Nop.Plugin.Misc.SendinBlue\obj\Debug\netcoreapp2.2\Nop.Plugin.Misc.SendinBlue.csprojAssemblyReference.cache
+D:\MTSNopcommercebackup\src\Plugins\Nop.Plugin.Misc.SendinBlue\obj\Debug\netcoreapp2.2\Nop.Plugin.Misc.SendinBlue.AssemblyInfoInputs.cache
+D:\MTSNopcommercebackup\src\Plugins\Nop.Plugin.Misc.SendinBlue\obj\Debug\netcoreapp2.2\Nop.Plugin.Misc.SendinBlue.AssemblyInfo.cs
+D:\MTSNopcommercebackup\src\Plugins\Nop.Plugin.Misc.SendinBlue\obj\Debug\netcoreapp2.2\Nop.Plugin.Misc.SendinBlue.csproj.CopyComplete
+D:\MTSNopcommercebackup\src\Plugins\Nop.Plugin.Misc.SendinBlue\obj\Debug\netcoreapp2.2\Nop.Plugin.Misc.SendinBlue.dll
+D:\MTSNopcommercebackup\src\Plugins\Nop.Plugin.Misc.SendinBlue\obj\Debug\netcoreapp2.2\Nop.Plugin.Misc.SendinBlue.pdb
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\Plugins\Misc.SendinBlue\SendinBlue.ClientV3.45.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\Plugins\Misc.SendinBlue\SendinBlueMarketingAutomation.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\Plugins\Misc.SendinBlue\Content\styles.css
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\Plugins\Misc.SendinBlue\logo.jpg
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\Plugins\Misc.SendinBlue\plugin.json
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\Plugins\Misc.SendinBlue\Views\Configure.cshtml
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\Plugins\Misc.SendinBlue\Views\PublicInfo.cshtml
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\Plugins\Misc.SendinBlue\Views\_ViewImports.cshtml
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\Plugins\Misc.SendinBlue\RestSharp.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\Plugins\Misc.SendinBlue\Nop.Plugin.Misc.SendinBlue.deps.json
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\Plugins\Misc.SendinBlue\Nop.Plugin.Misc.SendinBlue.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\Plugins\Misc.SendinBlue\Nop.Plugin.Misc.SendinBlue.pdb
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Plugins\Nop.Plugin.Misc.SendinBlue\obj\Debug\netcoreapp2.2\Nop.Plugin.Misc.SendinBlue.csprojAssemblyReference.cache
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Plugins\Nop.Plugin.Misc.SendinBlue\obj\Debug\netcoreapp2.2\Nop.Plugin.Misc.SendinBlue.AssemblyInfoInputs.cache
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Plugins\Nop.Plugin.Misc.SendinBlue\obj\Debug\netcoreapp2.2\Nop.Plugin.Misc.SendinBlue.AssemblyInfo.cs
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Plugins\Nop.Plugin.Misc.SendinBlue\obj\Debug\netcoreapp2.2\Nop.Plugin.Misc.SendinBlue.csproj.CopyComplete
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Plugins\Nop.Plugin.Misc.SendinBlue\obj\Debug\netcoreapp2.2\Nop.Plugin.Misc.SendinBlue.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Plugins\Nop.Plugin.Misc.SendinBlue\obj\Debug\netcoreapp2.2\Nop.Plugin.Misc.SendinBlue.pdb

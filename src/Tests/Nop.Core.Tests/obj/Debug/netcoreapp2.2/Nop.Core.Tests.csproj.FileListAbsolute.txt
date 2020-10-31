@@ -1,0 +1,66 @@
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Tests\Nop.Core.Tests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Tests\Nop.Core.Tests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Tests\Nop.Core.Tests\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Tests\Nop.Core.Tests\bin\Debug\netcoreapp2.2\Nop.Core.Tests.deps.json
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Tests\Nop.Core.Tests\bin\Debug\netcoreapp2.2\Nop.Core.Tests.runtimeconfig.json
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Tests\Nop.Core.Tests\bin\Debug\netcoreapp2.2\Nop.Core.Tests.runtimeconfig.dev.json
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Tests\Nop.Core.Tests\bin\Debug\netcoreapp2.2\Nop.Core.Tests.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Tests\Nop.Core.Tests\bin\Debug\netcoreapp2.2\Nop.Core.Tests.pdb
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Tests\Nop.Core.Tests\bin\Debug\netcoreapp2.2\Nop.Core.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Tests\Nop.Core.Tests\bin\Debug\netcoreapp2.2\Nop.Data.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Tests\Nop.Core.Tests\bin\Debug\netcoreapp2.2\Nop.Services.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Tests\Nop.Core.Tests\bin\Debug\netcoreapp2.2\Nop.Tests.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Tests\Nop.Core.Tests\bin\Debug\netcoreapp2.2\Nop.Tests.pdb
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Tests\Nop.Core.Tests\bin\Debug\netcoreapp2.2\Nop.Core.pdb
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Tests\Nop.Core.Tests\bin\Debug\netcoreapp2.2\Nop.Data.pdb
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Tests\Nop.Core.Tests\bin\Debug\netcoreapp2.2\Nop.Services.pdb
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Tests\Nop.Core.Tests\obj\Debug\netcoreapp2.2\Nop.Core.Tests.csprojAssemblyReference.cache
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Tests\Nop.Core.Tests\obj\Debug\netcoreapp2.2\Nop.Core.Tests.AssemblyInfoInputs.cache
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Tests\Nop.Core.Tests\obj\Debug\netcoreapp2.2\Nop.Core.Tests.AssemblyInfo.cs
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Tests\Nop.Core.Tests\obj\Debug\netcoreapp2.2\Nop.Core.Tests.csproj.CopyComplete
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Tests\Nop.Core.Tests\obj\Debug\netcoreapp2.2\Nop.Core.Tests.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Tests\Nop.Core.Tests\obj\Debug\netcoreapp2.2\Nop.Core.Tests.pdb
+D:\MTSNopcommercebackup\src\Tests\Nop.Core.Tests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+D:\MTSNopcommercebackup\src\Tests\Nop.Core.Tests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+D:\MTSNopcommercebackup\src\Tests\Nop.Core.Tests\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+D:\MTSNopcommercebackup\src\Tests\Nop.Core.Tests\bin\Debug\netcoreapp2.2\Nop.Core.Tests.deps.json
+D:\MTSNopcommercebackup\src\Tests\Nop.Core.Tests\bin\Debug\netcoreapp2.2\Nop.Core.Tests.runtimeconfig.json
+D:\MTSNopcommercebackup\src\Tests\Nop.Core.Tests\bin\Debug\netcoreapp2.2\Nop.Core.Tests.runtimeconfig.dev.json
+D:\MTSNopcommercebackup\src\Tests\Nop.Core.Tests\bin\Debug\netcoreapp2.2\Nop.Core.Tests.dll
+D:\MTSNopcommercebackup\src\Tests\Nop.Core.Tests\bin\Debug\netcoreapp2.2\Nop.Core.Tests.pdb
+D:\MTSNopcommercebackup\src\Tests\Nop.Core.Tests\bin\Debug\netcoreapp2.2\Nop.Core.dll
+D:\MTSNopcommercebackup\src\Tests\Nop.Core.Tests\bin\Debug\netcoreapp2.2\Nop.Data.dll
+D:\MTSNopcommercebackup\src\Tests\Nop.Core.Tests\bin\Debug\netcoreapp2.2\Nop.Services.dll
+D:\MTSNopcommercebackup\src\Tests\Nop.Core.Tests\bin\Debug\netcoreapp2.2\Nop.Tests.dll
+D:\MTSNopcommercebackup\src\Tests\Nop.Core.Tests\bin\Debug\netcoreapp2.2\Nop.Tests.pdb
+D:\MTSNopcommercebackup\src\Tests\Nop.Core.Tests\bin\Debug\netcoreapp2.2\Nop.Core.pdb
+D:\MTSNopcommercebackup\src\Tests\Nop.Core.Tests\bin\Debug\netcoreapp2.2\Nop.Data.pdb
+D:\MTSNopcommercebackup\src\Tests\Nop.Core.Tests\bin\Debug\netcoreapp2.2\Nop.Services.pdb
+D:\MTSNopcommercebackup\src\Tests\Nop.Core.Tests\obj\Debug\netcoreapp2.2\Nop.Core.Tests.csprojAssemblyReference.cache
+D:\MTSNopcommercebackup\src\Tests\Nop.Core.Tests\obj\Debug\netcoreapp2.2\Nop.Core.Tests.AssemblyInfoInputs.cache
+D:\MTSNopcommercebackup\src\Tests\Nop.Core.Tests\obj\Debug\netcoreapp2.2\Nop.Core.Tests.AssemblyInfo.cs
+D:\MTSNopcommercebackup\src\Tests\Nop.Core.Tests\obj\Debug\netcoreapp2.2\Nop.Core.Tests.csproj.CopyComplete
+D:\MTSNopcommercebackup\src\Tests\Nop.Core.Tests\obj\Debug\netcoreapp2.2\Nop.Core.Tests.dll
+D:\MTSNopcommercebackup\src\Tests\Nop.Core.Tests\obj\Debug\netcoreapp2.2\Nop.Core.Tests.pdb
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Tests\Nop.Core.Tests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Tests\Nop.Core.Tests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Tests\Nop.Core.Tests\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Tests\Nop.Core.Tests\bin\Debug\netcoreapp2.2\Nop.Core.Tests.deps.json
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Tests\Nop.Core.Tests\bin\Debug\netcoreapp2.2\Nop.Core.Tests.runtimeconfig.json
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Tests\Nop.Core.Tests\bin\Debug\netcoreapp2.2\Nop.Core.Tests.runtimeconfig.dev.json
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Tests\Nop.Core.Tests\bin\Debug\netcoreapp2.2\Nop.Core.Tests.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Tests\Nop.Core.Tests\bin\Debug\netcoreapp2.2\Nop.Core.Tests.pdb
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Tests\Nop.Core.Tests\bin\Debug\netcoreapp2.2\Nop.Core.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Tests\Nop.Core.Tests\bin\Debug\netcoreapp2.2\Nop.Data.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Tests\Nop.Core.Tests\bin\Debug\netcoreapp2.2\Nop.Services.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Tests\Nop.Core.Tests\bin\Debug\netcoreapp2.2\Nop.Tests.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Tests\Nop.Core.Tests\bin\Debug\netcoreapp2.2\Nop.Tests.pdb
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Tests\Nop.Core.Tests\bin\Debug\netcoreapp2.2\Nop.Core.pdb
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Tests\Nop.Core.Tests\bin\Debug\netcoreapp2.2\Nop.Data.pdb
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Tests\Nop.Core.Tests\bin\Debug\netcoreapp2.2\Nop.Services.pdb
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Tests\Nop.Core.Tests\obj\Debug\netcoreapp2.2\Nop.Core.Tests.csprojAssemblyReference.cache
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Tests\Nop.Core.Tests\obj\Debug\netcoreapp2.2\Nop.Core.Tests.AssemblyInfoInputs.cache
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Tests\Nop.Core.Tests\obj\Debug\netcoreapp2.2\Nop.Core.Tests.AssemblyInfo.cs
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Tests\Nop.Core.Tests\obj\Debug\netcoreapp2.2\Nop.Core.Tests.csproj.CopyComplete
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Tests\Nop.Core.Tests\obj\Debug\netcoreapp2.2\Nop.Core.Tests.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Tests\Nop.Core.Tests\obj\Debug\netcoreapp2.2\Nop.Core.Tests.pdb

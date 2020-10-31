@@ -1,0 +1,53 @@
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\Plugins\Shipping.FixedByWeightByTotal\logo.jpg
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\Plugins\Shipping.FixedByWeightByTotal\plugin.json
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\Plugins\Shipping.FixedByWeightByTotal\Views\AddRateByWeightByTotalPopup.cshtml
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\Plugins\Shipping.FixedByWeightByTotal\Views\Configure.cshtml
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\Plugins\Shipping.FixedByWeightByTotal\Views\EditRateByWeightByTotalPopup.cshtml
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\Plugins\Shipping.FixedByWeightByTotal\Views\_ByWeightByTotal.cshtml
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\Plugins\Shipping.FixedByWeightByTotal\Views\_CreateOrUpdateRateByWeightByTotal.cshtml
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\Plugins\Shipping.FixedByWeightByTotal\Views\_FixedRate.cshtml
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\Plugins\Shipping.FixedByWeightByTotal\Views\_ViewImports.cshtml
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\Plugins\Shipping.FixedByWeightByTotal\Nop.Plugin.Shipping.FixedByWeightByTotal.deps.json
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\Plugins\Shipping.FixedByWeightByTotal\Nop.Plugin.Shipping.FixedByWeightByTotal.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\Plugins\Shipping.FixedByWeightByTotal\Nop.Plugin.Shipping.FixedByWeightByTotal.pdb
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Plugins\Nop.Plugin.Shipping.FixedByWeightByTotal\obj\Debug\netcoreapp2.2\Nop.Plugin.Shipping.FixedByWeightByTotal.csprojAssemblyReference.cache
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Plugins\Nop.Plugin.Shipping.FixedByWeightByTotal\obj\Debug\netcoreapp2.2\Nop.Plugin.Shipping.FixedByWeightByTotal.AssemblyInfoInputs.cache
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Plugins\Nop.Plugin.Shipping.FixedByWeightByTotal\obj\Debug\netcoreapp2.2\Nop.Plugin.Shipping.FixedByWeightByTotal.AssemblyInfo.cs
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Plugins\Nop.Plugin.Shipping.FixedByWeightByTotal\obj\Debug\netcoreapp2.2\Nop.Plugin.Shipping.FixedByWeightByTotal.csproj.CopyComplete
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Plugins\Nop.Plugin.Shipping.FixedByWeightByTotal\obj\Debug\netcoreapp2.2\Nop.Plugin.Shipping.FixedByWeightByTotal.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Plugins\Nop.Plugin.Shipping.FixedByWeightByTotal\obj\Debug\netcoreapp2.2\Nop.Plugin.Shipping.FixedByWeightByTotal.pdb
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\Plugins\Shipping.FixedByWeightByTotal\logo.jpg
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\Plugins\Shipping.FixedByWeightByTotal\plugin.json
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\Plugins\Shipping.FixedByWeightByTotal\Views\AddRateByWeightByTotalPopup.cshtml
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\Plugins\Shipping.FixedByWeightByTotal\Views\Configure.cshtml
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\Plugins\Shipping.FixedByWeightByTotal\Views\EditRateByWeightByTotalPopup.cshtml
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\Plugins\Shipping.FixedByWeightByTotal\Views\_ByWeightByTotal.cshtml
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\Plugins\Shipping.FixedByWeightByTotal\Views\_CreateOrUpdateRateByWeightByTotal.cshtml
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\Plugins\Shipping.FixedByWeightByTotal\Views\_FixedRate.cshtml
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\Plugins\Shipping.FixedByWeightByTotal\Views\_ViewImports.cshtml
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\Plugins\Shipping.FixedByWeightByTotal\Nop.Plugin.Shipping.FixedByWeightByTotal.deps.json
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\Plugins\Shipping.FixedByWeightByTotal\Nop.Plugin.Shipping.FixedByWeightByTotal.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\Plugins\Shipping.FixedByWeightByTotal\Nop.Plugin.Shipping.FixedByWeightByTotal.pdb
+D:\MTSNopcommercebackup\src\Plugins\Nop.Plugin.Shipping.FixedByWeightByTotal\obj\Debug\netcoreapp2.2\Nop.Plugin.Shipping.FixedByWeightByTotal.csprojAssemblyReference.cache
+D:\MTSNopcommercebackup\src\Plugins\Nop.Plugin.Shipping.FixedByWeightByTotal\obj\Debug\netcoreapp2.2\Nop.Plugin.Shipping.FixedByWeightByTotal.AssemblyInfoInputs.cache
+D:\MTSNopcommercebackup\src\Plugins\Nop.Plugin.Shipping.FixedByWeightByTotal\obj\Debug\netcoreapp2.2\Nop.Plugin.Shipping.FixedByWeightByTotal.AssemblyInfo.cs
+D:\MTSNopcommercebackup\src\Plugins\Nop.Plugin.Shipping.FixedByWeightByTotal\obj\Debug\netcoreapp2.2\Nop.Plugin.Shipping.FixedByWeightByTotal.csproj.CopyComplete
+D:\MTSNopcommercebackup\src\Plugins\Nop.Plugin.Shipping.FixedByWeightByTotal\obj\Debug\netcoreapp2.2\Nop.Plugin.Shipping.FixedByWeightByTotal.dll
+D:\MTSNopcommercebackup\src\Plugins\Nop.Plugin.Shipping.FixedByWeightByTotal\obj\Debug\netcoreapp2.2\Nop.Plugin.Shipping.FixedByWeightByTotal.pdb
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\Plugins\Shipping.FixedByWeightByTotal\logo.jpg
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\Plugins\Shipping.FixedByWeightByTotal\plugin.json
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\Plugins\Shipping.FixedByWeightByTotal\Views\AddRateByWeightByTotalPopup.cshtml
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\Plugins\Shipping.FixedByWeightByTotal\Views\Configure.cshtml
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\Plugins\Shipping.FixedByWeightByTotal\Views\EditRateByWeightByTotalPopup.cshtml
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\Plugins\Shipping.FixedByWeightByTotal\Views\_ByWeightByTotal.cshtml
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\Plugins\Shipping.FixedByWeightByTotal\Views\_CreateOrUpdateRateByWeightByTotal.cshtml
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\Plugins\Shipping.FixedByWeightByTotal\Views\_FixedRate.cshtml
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\Plugins\Shipping.FixedByWeightByTotal\Views\_ViewImports.cshtml
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\Plugins\Shipping.FixedByWeightByTotal\Nop.Plugin.Shipping.FixedByWeightByTotal.deps.json
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\Plugins\Shipping.FixedByWeightByTotal\Nop.Plugin.Shipping.FixedByWeightByTotal.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\Plugins\Shipping.FixedByWeightByTotal\Nop.Plugin.Shipping.FixedByWeightByTotal.pdb
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Plugins\Nop.Plugin.Shipping.FixedByWeightByTotal\obj\Debug\netcoreapp2.2\Nop.Plugin.Shipping.FixedByWeightByTotal.AssemblyInfoInputs.cache
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Plugins\Nop.Plugin.Shipping.FixedByWeightByTotal\obj\Debug\netcoreapp2.2\Nop.Plugin.Shipping.FixedByWeightByTotal.AssemblyInfo.cs
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Plugins\Nop.Plugin.Shipping.FixedByWeightByTotal\obj\Debug\netcoreapp2.2\Nop.Plugin.Shipping.FixedByWeightByTotal.csproj.CopyComplete
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Plugins\Nop.Plugin.Shipping.FixedByWeightByTotal\obj\Debug\netcoreapp2.2\Nop.Plugin.Shipping.FixedByWeightByTotal.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Plugins\Nop.Plugin.Shipping.FixedByWeightByTotal\obj\Debug\netcoreapp2.2\Nop.Plugin.Shipping.FixedByWeightByTotal.pdb

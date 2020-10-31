@@ -1,0 +1,80 @@
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\Plugins\Payments.Qualpay\qpPg.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\Plugins\Payments.Qualpay\qpPlatform.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\Plugins\Payments.Qualpay\RestSharp.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\Plugins\Payments.Qualpay\Areas\Admin\sitemap.config
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\Plugins\Payments.Qualpay\web.config
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\Plugins\Payments.Qualpay\appsettings.json
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\Plugins\Payments.Qualpay\App_Data\dataSettings.json
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\Plugins\Payments.Qualpay\App_Data\plugins.json
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\Plugins\Payments.Qualpay\Properties\launchSettings.json
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\Plugins\Payments.Qualpay\Themes\DefaultClean\theme.json
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\Plugins\Payments.Qualpay\logo.png
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\Plugins\Payments.Qualpay\plugin.json
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\Plugins\Payments.Qualpay\Views\Configure.cshtml
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\Plugins\Payments.Qualpay\Views\Customer\_CreateOrUpdate.Qualpay.cshtml
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\Plugins\Payments.Qualpay\Views\PaymentInfo.cshtml
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\Plugins\Payments.Qualpay\Views\_ViewImports.cshtml
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\Plugins\Payments.Qualpay\Nop.Plugin.Payments.Qualpay.deps.json
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\Plugins\Payments.Qualpay\Nop.Plugin.Payments.Qualpay.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\Plugins\Payments.Qualpay\Nop.Plugin.Payments.Qualpay.pdb
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Plugins\Nop.Plugin.Payments.Qualpay\obj\Debug\netcoreapp2.2\Nop.Plugin.Payments.Qualpay.csprojAssemblyReference.cache
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Plugins\Nop.Plugin.Payments.Qualpay\obj\Debug\netcoreapp2.2\Nop.Plugin.Payments.Qualpay.AssemblyInfoInputs.cache
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Plugins\Nop.Plugin.Payments.Qualpay\obj\Debug\netcoreapp2.2\Nop.Plugin.Payments.Qualpay.AssemblyInfo.cs
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Plugins\Nop.Plugin.Payments.Qualpay\obj\Debug\netcoreapp2.2\Nop.Plugin.Payments.Qualpay.csproj.CopyComplete
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Plugins\Nop.Plugin.Payments.Qualpay\obj\Debug\netcoreapp2.2\Nop.Plugin.Payments.Qualpay.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Plugins\Nop.Plugin.Payments.Qualpay\obj\Debug\netcoreapp2.2\Nop.Plugin.Payments.Qualpay.pdb
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\Plugins\Payments.Qualpay\qpPg.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\Plugins\Payments.Qualpay\qpPlatform.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\Plugins\Payments.Qualpay\RestSharp.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\Plugins\Payments.Qualpay\Areas\Admin\sitemap.config
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\Plugins\Payments.Qualpay\web.config
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\Plugins\Payments.Qualpay\appsettings.json
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\Plugins\Payments.Qualpay\App_Data\api-token-signing-key.json
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\Plugins\Payments.Qualpay\App_Data\dataSettings.json
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\Plugins\Payments.Qualpay\App_Data\plugins.json
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\Plugins\Payments.Qualpay\Properties\launchSettings.json
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\Plugins\Payments.Qualpay\Themes\DefaultClean\theme.json
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\Plugins\Payments.Qualpay\logo.png
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\Plugins\Payments.Qualpay\plugin.json
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\Plugins\Payments.Qualpay\Views\Configure.cshtml
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\Plugins\Payments.Qualpay\Views\Customer\_CreateOrUpdate.Qualpay.cshtml
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\Plugins\Payments.Qualpay\Views\PaymentInfo.cshtml
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\Plugins\Payments.Qualpay\Views\_ViewImports.cshtml
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\Plugins\Payments.Qualpay\Nop.Plugin.Payments.Qualpay.deps.json
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\Plugins\Payments.Qualpay\Nop.Plugin.Payments.Qualpay.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\Plugins\Payments.Qualpay\Nop.Plugin.Payments.Qualpay.pdb
+D:\MTSNopcommercebackup\src\Plugins\Nop.Plugin.Payments.Qualpay\obj\Debug\netcoreapp2.2\Nop.Plugin.Payments.Qualpay.csprojAssemblyReference.cache
+D:\MTSNopcommercebackup\src\Plugins\Nop.Plugin.Payments.Qualpay\obj\Debug\netcoreapp2.2\Nop.Plugin.Payments.Qualpay.AssemblyInfoInputs.cache
+D:\MTSNopcommercebackup\src\Plugins\Nop.Plugin.Payments.Qualpay\obj\Debug\netcoreapp2.2\Nop.Plugin.Payments.Qualpay.AssemblyInfo.cs
+D:\MTSNopcommercebackup\src\Plugins\Nop.Plugin.Payments.Qualpay\obj\Debug\netcoreapp2.2\Nop.Plugin.Payments.Qualpay.csproj.CopyComplete
+D:\MTSNopcommercebackup\src\Plugins\Nop.Plugin.Payments.Qualpay\obj\Debug\netcoreapp2.2\Nop.Plugin.Payments.Qualpay.dll
+D:\MTSNopcommercebackup\src\Plugins\Nop.Plugin.Payments.Qualpay\obj\Debug\netcoreapp2.2\Nop.Plugin.Payments.Qualpay.pdb
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\Plugins\Payments.Qualpay\qpPg.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\Plugins\Payments.Qualpay\qpPlatform.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\Plugins\Payments.Qualpay\RestSharp.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\Plugins\Payments.Qualpay\Areas\Admin\sitemap.config
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\Plugins\Payments.Qualpay\web.config
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\Plugins\Payments.Qualpay\appsettings.json
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\Plugins\Payments.Qualpay\App_Data\api-token-signing-key.json
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\Plugins\Payments.Qualpay\App_Data\dataSettings.json
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\Plugins\Payments.Qualpay\App_Data\plugins.json
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\Plugins\Payments.Qualpay\Plugins\ExchangeRate.EcbExchange\Nop.Plugin.ExchangeRate.EcbExchange.deps.json
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\Plugins\Payments.Qualpay\Plugins\ExchangeRate.EcbExchange\plugin.json
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\Plugins\Payments.Qualpay\Plugins\Payments.Manual\plugin.json
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\Plugins\Payments.Qualpay\Properties\launchSettings.json
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\Plugins\Payments.Qualpay\Themes\DefaultClean\theme.json
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\Plugins\Payments.Qualpay\logo.png
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\Plugins\Payments.Qualpay\plugin.json
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\Plugins\Payments.Qualpay\Views\Configure.cshtml
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\Plugins\Payments.Qualpay\Views\Customer\_CreateOrUpdate.Qualpay.cshtml
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\Plugins\Payments.Qualpay\Views\PaymentInfo.cshtml
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\Plugins\Payments.Qualpay\Views\_ViewImports.cshtml
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\Plugins\Payments.Qualpay\Nop.Plugin.Payments.Qualpay.deps.json
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\Plugins\Payments.Qualpay\Nop.Plugin.Payments.Qualpay.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\Plugins\Payments.Qualpay\Nop.Plugin.Payments.Qualpay.pdb
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Plugins\Nop.Plugin.Payments.Qualpay\obj\Debug\netcoreapp2.2\Nop.Plugin.Payments.Qualpay.csprojAssemblyReference.cache
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Plugins\Nop.Plugin.Payments.Qualpay\obj\Debug\netcoreapp2.2\Nop.Plugin.Payments.Qualpay.AssemblyInfoInputs.cache
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Plugins\Nop.Plugin.Payments.Qualpay\obj\Debug\netcoreapp2.2\Nop.Plugin.Payments.Qualpay.AssemblyInfo.cs
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Plugins\Nop.Plugin.Payments.Qualpay\obj\Debug\netcoreapp2.2\Nop.Plugin.Payments.Qualpay.csproj.CopyComplete
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Plugins\Nop.Plugin.Payments.Qualpay\obj\Debug\netcoreapp2.2\Nop.Plugin.Payments.Qualpay.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Plugins\Nop.Plugin.Payments.Qualpay\obj\Debug\netcoreapp2.2\Nop.Plugin.Payments.Qualpay.pdb

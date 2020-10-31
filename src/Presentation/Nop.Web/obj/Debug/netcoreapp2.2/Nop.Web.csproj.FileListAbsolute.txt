@@ -1,0 +1,1071 @@
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Areas\Admin\sitemap.config
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\web.config
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\appsettings.json
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\App_Data\dataSettings.json
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\App_Data\plugins.json
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Themes\DefaultClean\theme.json
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Nop.Web.deps.json
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Nop.Web.runtimeconfig.json
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Nop.Web.runtimeconfig.dev.json
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Nop.Web.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Nop.Web.pdb
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Autofac.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Autofac.Extensions.DependencyInjection.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\AutoMapper.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\dotnet-bundle.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Castle.Core.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\EasyCaching.Core.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\EasyCaching.InMemory.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\EPPlus.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\FluentValidation.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\FluentValidation.AspNetCore.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\FluentValidation.DependencyInjectionExtensions.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Humanizer.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\iTextSharp.LGPLv2.Core.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\MaxMind.Db.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\MaxMind.GeoIP2.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\System.Net.Http.Formatting.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Antiforgery.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Authentication.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Authentication.Core.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Authentication.Facebook.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Authentication.Google.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Authentication.MicrosoftAccount.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Authentication.OAuth.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Authentication.Twitter.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Authentication.WsFederation.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Authorization.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.CookiePolicy.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Cors.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.DataProtection.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.DataProtection.Redis.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Diagnostics.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.HostFiltering.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Hosting.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Http.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Http.Connections.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Http.Extensions.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Http.Features.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.HttpOverrides.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.HttpsPolicy.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Identity.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Identity.UI.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.JsonPatch.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Localization.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Localization.Routing.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Mvc.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Mvc.Core.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.NodeServices.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Owin.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Razor.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Razor.Language.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.ResponseCaching.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.ResponseCompression.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Rewrite.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Routing.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Server.HttpSys.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Server.IIS.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Session.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.SignalR.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.SignalR.Common.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.SignalR.Core.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.SpaServices.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.SpaServices.Extensions.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.StaticFiles.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.WebSockets.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.WebUtilities.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.CodeAnalysis.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.CodeAnalysis.CSharp.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.CodeAnalysis.Razor.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.DotNet.PlatformAbstractions.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.EntityFrameworkCore.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.EntityFrameworkCore.Design.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.EntityFrameworkCore.Relational.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Caching.Abstractions.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Caching.Memory.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Caching.SqlServer.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Configuration.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Configuration.Binder.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Configuration.Ini.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Configuration.Json.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Configuration.KeyPerFile.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Configuration.Xml.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.Extensions.DependencyInjection.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.Extensions.DependencyModel.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.Extensions.DiagnosticAdapter.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.Extensions.FileProviders.Composite.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.Extensions.FileProviders.Physical.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Hosting.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Http.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Identity.Core.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Identity.Stores.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Localization.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Localization.Abstractions.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Logging.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Logging.Abstractions.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Logging.Configuration.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Logging.Console.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Logging.Debug.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Logging.EventSource.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Logging.TraceSource.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.Extensions.ObjectPool.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Options.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Options.DataAnnotations.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Primitives.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.Extensions.WebEncoders.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.IdentityModel.Logging.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.IdentityModel.Protocols.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.IdentityModel.Protocols.WsFederation.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.IdentityModel.Tokens.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.IdentityModel.Tokens.Saml.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.IdentityModel.Xml.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.Net.Http.Headers.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.Win32.SystemEvents.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\MiniProfiler.AspNetCore.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\MiniProfiler.AspNetCore.Mvc.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\MiniProfiler.EntityFrameworkCore.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\MiniProfiler.Shared.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Newtonsoft.Json.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Newtonsoft.Json.Bson.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\NUglify.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\BouncyCastle.Crypto.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\RedLockNet.Abstractions.StrongName.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\RedLockNet.SERedis.StrongName.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Remotion.Linq.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\SixLabors.Core.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\SixLabors.ImageSharp.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\StackExchange.Redis.StrongName.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\System.Data.SqlClient.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\System.Drawing.Common.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\System.IdentityModel.Tokens.Jwt.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\System.Interactive.Async.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\System.IO.Pipelines.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\System.Linq.Dynamic.Core.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\System.Net.WebSockets.WebSocketProtocol.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\System.Runtime.CompilerServices.Unsafe.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\System.Security.Cryptography.Pkcs.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\System.Security.Cryptography.Xml.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\System.Security.Permissions.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\System.ServiceModel.Http.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\System.ServiceModel.Primitives.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\System.ServiceModel.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\System.Text.Encoding.CodePages.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\System.Text.Encodings.Web.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\System.Threading.Channels.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\System.Xml.XPath.XmlDocument.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\WebMarkupMin.AspNet.Common.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\WebMarkupMin.AspNetCore2.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\WebMarkupMin.Core.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\WebMarkupMin.NUglify.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.WindowsAzure.Storage.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\af\Humanizer.resources.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\ar\Humanizer.resources.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\bg\Humanizer.resources.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\bn-BD\Humanizer.resources.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\cs\Humanizer.resources.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\da\Humanizer.resources.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\de\Humanizer.resources.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\el\Humanizer.resources.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\es\Humanizer.resources.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\fa\Humanizer.resources.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\fi-FI\Humanizer.resources.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\fr\Humanizer.resources.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\fr-BE\Humanizer.resources.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\he\Humanizer.resources.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\hr\Humanizer.resources.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\hu\Humanizer.resources.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\id\Humanizer.resources.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\it\Humanizer.resources.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\ja\Humanizer.resources.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\lv\Humanizer.resources.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\ms-MY\Humanizer.resources.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\mt\Humanizer.resources.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\nb\Humanizer.resources.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\nb-NO\Humanizer.resources.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\nl\Humanizer.resources.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\pl\Humanizer.resources.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\pt\Humanizer.resources.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\ro\Humanizer.resources.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\ru\Humanizer.resources.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\sk\Humanizer.resources.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\sl\Humanizer.resources.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\sr\Humanizer.resources.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\sr-Latn\Humanizer.resources.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\sv\Humanizer.resources.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\tr\Humanizer.resources.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\uk\Humanizer.resources.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\uz-Latn-UZ\Humanizer.resources.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\vi\Humanizer.resources.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\zh-CN\Humanizer.resources.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\zh-Hans\Humanizer.resources.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\zh-Hant\Humanizer.resources.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\runtimes\win-x64\nativeassets\netcoreapp2.2\aspnetcorev2_inprocess.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\runtimes\win-x86\nativeassets\netcoreapp2.2\aspnetcorev2_inprocess.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\runtimes\win\lib\netcoreapp2.0\Microsoft.Win32.SystemEvents.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\runtimes\win-arm64\native\sni.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\runtimes\win-x64\native\sni.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\runtimes\win-x86\native\sni.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\runtimes\unix\lib\netcoreapp2.0\System.Drawing.Common.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\runtimes\win\lib\netcoreapp2.0\System.Drawing.Common.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\runtimes\unix\lib\netstandard2.0\System.Private.ServiceModel.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\runtimes\win\lib\netstandard2.0\System.Private.ServiceModel.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\runtimes\win\lib\netcoreapp2.1\System.Security.Cryptography.Pkcs.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Nop.Core.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Nop.Data.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Nop.Services.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Nop.Web.Framework.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Nop.Core.pdb
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Nop.Data.pdb
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Nop.Services.pdb
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Nop.Web.Framework.pdb
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\obj\Debug\netcoreapp2.2\Nop.Web.csprojAssemblyReference.cache
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\obj\Debug\netcoreapp2.2\Nop.Web.AssemblyInfoInputs.cache
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\obj\Debug\netcoreapp2.2\Nop.Web.AssemblyInfo.cs
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\obj\Debug\netcoreapp2.2\Nop.Web.csproj.CopyComplete
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\obj\Debug\netcoreapp2.2\Nop.Web.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\obj\Debug\netcoreapp2.2\Nop.Web.pdb
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Payments.Qualpay\Areas\Admin\sitemap.config
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Payments.Qualpay\web.config
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Payments.Square\Areas\Admin\sitemap.config
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Payments.Square\web.config
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Tax.Avalara\Areas\Admin\sitemap.config
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Tax.Avalara\web.config
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\DiscountRules.CustomerRoles\Nop.Plugin.DiscountRules.CustomerRoles.deps.json
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\DiscountRules.CustomerRoles\plugin.json
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\ExchangeRate.EcbExchange\Nop.Plugin.ExchangeRate.EcbExchange.deps.json
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\ExchangeRate.EcbExchange\plugin.json
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\ExternalAuth.Facebook\Nop.Plugin.ExternalAuth.Facebook.deps.json
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\ExternalAuth.Facebook\plugin.json
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Misc.SendinBlue\Nop.Plugin.Misc.SendinBlue.deps.json
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Misc.SendinBlue\plugin.json
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Nop.Plugin.Api\Nop.Plugin.Api.deps.json
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Nop.Plugin.Api\plugin.json
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Payments.CheckMoneyOrder\Nop.Plugin.Payments.CheckMoneyOrder.deps.json
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Payments.CheckMoneyOrder\plugin.json
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Payments.Manual\Nop.Plugin.Payments.Manual.deps.json
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Payments.Manual\plugin.json
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Payments.PayPalStandard\Nop.Plugin.Payments.PayPalStandard.deps.json
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Payments.PayPalStandard\plugin.json
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Payments.Qualpay\appsettings.json
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Payments.Qualpay\App_Data\dataSettings.json
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Payments.Qualpay\App_Data\plugins.json
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Payments.Qualpay\Nop.Plugin.Payments.Qualpay.deps.json
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Payments.Qualpay\plugin.json
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Payments.Qualpay\Properties\launchSettings.json
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Payments.Qualpay\Themes\DefaultClean\theme.json
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Payments.Square\appsettings.json
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Payments.Square\App_Data\dataSettings.json
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Payments.Square\App_Data\plugins.json
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Payments.Square\Nop.Plugin.Payments.Square.deps.json
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Payments.Square\plugin.json
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Payments.Square\Properties\launchSettings.json
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Payments.Square\Themes\DefaultClean\theme.json
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Pickup.PickupInStore\Nop.Plugin.Pickup.PickupInStore.deps.json
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Pickup.PickupInStore\plugin.json
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Shipping.FixedByWeightByTotal\Nop.Plugin.Shipping.FixedByWeightByTotal.deps.json
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Shipping.FixedByWeightByTotal\plugin.json
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Shipping.UPS\Nop.Plugin.Shipping.UPS.deps.json
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Shipping.UPS\plugin.json
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Tax.Avalara\appsettings.json
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Tax.Avalara\App_Data\dataSettings.json
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Tax.Avalara\App_Data\plugins.json
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Tax.Avalara\Nop.Plugin.Tax.Avalara.deps.json
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Tax.Avalara\plugin.json
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Tax.Avalara\Properties\launchSettings.json
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Tax.Avalara\Themes\DefaultClean\theme.json
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Tax.FixedOrByCountryStateZip\Nop.Plugin.Tax.FixedOrByCountryStateZip.deps.json
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Tax.FixedOrByCountryStateZip\plugin.json
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Widgets.GoogleAnalytics\Nop.Plugin.Widgets.GoogleAnalytics.deps.json
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Widgets.GoogleAnalytics\plugin.json
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Widgets.NivoSlider\Nop.Plugin.Widgets.NivoSlider.deps.json
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Widgets.NivoSlider\plugin.json
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\App_Data\api-token-signing-key.json
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Nop.Web.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Nop.Web.pdb
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Autofac.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Autofac.Extensions.DependencyInjection.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\AutoMapper.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\dotnet-bundle.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Castle.Core.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\EasyCaching.Core.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\EasyCaching.InMemory.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\FluentValidation.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\FluentValidation.AspNetCore.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\FluentValidation.DependencyInjectionExtensions.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Humanizer.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Antiforgery.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Authentication.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Authentication.Core.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Authentication.Facebook.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Authentication.OAuth.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Authorization.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Cors.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.DataProtection.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.DataProtection.Redis.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.HostFiltering.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Hosting.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Http.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Http.Features.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.HttpOverrides.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Identity.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Identity.UI.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Mvc.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Mvc.Core.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Razor.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Razor.Language.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.ResponseCompression.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Routing.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Server.IIS.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Session.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.SpaServices.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.SpaServices.Extensions.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.StaticFiles.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.WebUtilities.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.CodeAnalysis.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.CodeAnalysis.CSharp.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.CodeAnalysis.Razor.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.EntityFrameworkCore.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.EntityFrameworkCore.Relational.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Caching.Abstractions.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Caching.Memory.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Configuration.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Configuration.Binder.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Configuration.Json.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.Extensions.DependencyInjection.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.Extensions.DependencyModel.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.Extensions.FileProviders.Physical.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Http.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Identity.Core.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Localization.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Localization.Abstractions.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Logging.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Logging.Abstractions.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Logging.Configuration.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Logging.Console.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Logging.Debug.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Logging.EventSource.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.Extensions.ObjectPool.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Options.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Primitives.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.Extensions.WebEncoders.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.IdentityModel.Logging.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.IdentityModel.Tokens.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.Net.Http.Headers.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\MiniProfiler.AspNetCore.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\MiniProfiler.AspNetCore.Mvc.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\MiniProfiler.EntityFrameworkCore.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\MiniProfiler.Shared.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Newtonsoft.Json.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\NUglify.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\BouncyCastle.Crypto.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\RedLockNet.Abstractions.StrongName.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\RedLockNet.SERedis.StrongName.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Remotion.Linq.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\SixLabors.Core.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\SixLabors.ImageSharp.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\StackExchange.Redis.StrongName.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\System.IdentityModel.Tokens.Jwt.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\System.Interactive.Async.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\System.IO.Pipelines.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\System.Runtime.CompilerServices.Unsafe.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\System.ServiceModel.Primitives.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\System.Text.Encodings.Web.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\WebMarkupMin.AspNet.Common.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\WebMarkupMin.AspNetCore2.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\WebMarkupMin.Core.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\WebMarkupMin.NUglify.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.WindowsAzure.Storage.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\runtimes\win-x64\native\sni.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\runtimes\win\lib\netstandard2.0\System.Private.ServiceModel.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Nop.Core.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Nop.Data.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Nop.Services.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Nop.Web.Framework.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Nop.Data.pdb
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Nop.Services.pdb
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Nop.Web.Framework.pdb
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\EPPlus.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\iTextSharp.LGPLv2.Core.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\MaxMind.Db.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\MaxMind.GeoIP2.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\System.Net.Http.Formatting.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Authentication.Google.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Authentication.MicrosoftAccount.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Authentication.Twitter.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Authentication.WsFederation.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.CookiePolicy.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Diagnostics.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Http.Connections.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Http.Extensions.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.HttpsPolicy.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.JsonPatch.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Localization.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Localization.Routing.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.NodeServices.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Owin.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.ResponseCaching.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Rewrite.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Server.HttpSys.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.SignalR.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.SignalR.Common.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.SignalR.Core.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.WebSockets.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.DotNet.PlatformAbstractions.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.EntityFrameworkCore.Design.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Caching.SqlServer.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Configuration.Ini.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Configuration.KeyPerFile.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Configuration.Xml.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.Extensions.DiagnosticAdapter.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.Extensions.FileProviders.Composite.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Hosting.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Identity.Stores.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Logging.TraceSource.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Options.DataAnnotations.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.IdentityModel.Protocols.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.IdentityModel.Protocols.WsFederation.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.IdentityModel.Tokens.Saml.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.IdentityModel.Xml.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.Win32.SystemEvents.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Newtonsoft.Json.Bson.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\System.Data.SqlClient.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\System.Drawing.Common.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\System.Linq.Dynamic.Core.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\System.Net.WebSockets.WebSocketProtocol.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\System.Security.Cryptography.Pkcs.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\System.Security.Cryptography.Xml.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\System.Security.Permissions.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\System.ServiceModel.Http.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\System.ServiceModel.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\System.Text.Encoding.CodePages.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\System.Threading.Channels.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\System.Xml.XPath.XmlDocument.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\af\Humanizer.resources.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\ar\Humanizer.resources.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\bg\Humanizer.resources.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\bn-BD\Humanizer.resources.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\cs\Humanizer.resources.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\da\Humanizer.resources.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\de\Humanizer.resources.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\el\Humanizer.resources.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\es\Humanizer.resources.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\fa\Humanizer.resources.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\fi-FI\Humanizer.resources.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\fr\Humanizer.resources.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\fr-BE\Humanizer.resources.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\he\Humanizer.resources.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\hr\Humanizer.resources.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\hu\Humanizer.resources.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\id\Humanizer.resources.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\it\Humanizer.resources.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\ja\Humanizer.resources.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\lv\Humanizer.resources.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\ms-MY\Humanizer.resources.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\mt\Humanizer.resources.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\nb\Humanizer.resources.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\nb-NO\Humanizer.resources.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\nl\Humanizer.resources.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\pl\Humanizer.resources.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\pt\Humanizer.resources.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\ro\Humanizer.resources.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\ru\Humanizer.resources.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\sk\Humanizer.resources.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\sl\Humanizer.resources.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\sr\Humanizer.resources.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\sr-Latn\Humanizer.resources.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\sv\Humanizer.resources.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\tr\Humanizer.resources.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\uk\Humanizer.resources.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\uz-Latn-UZ\Humanizer.resources.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\vi\Humanizer.resources.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\zh-CN\Humanizer.resources.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\zh-Hans\Humanizer.resources.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\zh-Hant\Humanizer.resources.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\runtimes\win-x64\nativeassets\netcoreapp2.2\aspnetcorev2_inprocess.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\runtimes\win-x86\nativeassets\netcoreapp2.2\aspnetcorev2_inprocess.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\runtimes\win\lib\netcoreapp2.0\Microsoft.Win32.SystemEvents.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\runtimes\win-arm64\native\sni.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\runtimes\win-x86\native\sni.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\runtimes\unix\lib\netcoreapp2.0\System.Drawing.Common.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\runtimes\win\lib\netcoreapp2.0\System.Drawing.Common.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\runtimes\unix\lib\netstandard2.0\System.Private.ServiceModel.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\runtimes\win\lib\netcoreapp2.1\System.Security.Cryptography.Pkcs.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Nop.Core.pdb
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\obj\Debug\netcoreapp2.2\Nop.Web.csprojAssemblyReference.cache
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\obj\Debug\netcoreapp2.2\Nop.Web.AssemblyInfoInputs.cache
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\obj\Debug\netcoreapp2.2\Nop.Web.AssemblyInfo.cs
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\obj\Debug\netcoreapp2.2\Nop.Web.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\obj\Debug\netcoreapp2.2\Nop.Web.pdb
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Areas\Admin\sitemap.config
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Payments.Qualpay\Areas\Admin\sitemap.config
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Payments.Qualpay\web.config
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Payments.Square\Areas\Admin\sitemap.config
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Payments.Square\web.config
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Tax.Avalara\Areas\Admin\sitemap.config
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Tax.Avalara\web.config
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\web.config
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\appsettings.json
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\DiscountRules.CustomerRoles\Nop.Plugin.DiscountRules.CustomerRoles.deps.json
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\DiscountRules.CustomerRoles\plugin.json
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\ExchangeRate.EcbExchange\Nop.Plugin.ExchangeRate.EcbExchange.deps.json
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\ExchangeRate.EcbExchange\plugin.json
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\ExternalAuth.Facebook\Nop.Plugin.ExternalAuth.Facebook.deps.json
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\ExternalAuth.Facebook\plugin.json
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Misc.SendinBlue\Nop.Plugin.Misc.SendinBlue.deps.json
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Misc.SendinBlue\plugin.json
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Nop.Plugin.Api\Nop.Plugin.Api.deps.json
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Nop.Plugin.Api\plugin.json
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Payments.CheckMoneyOrder\Nop.Plugin.Payments.CheckMoneyOrder.deps.json
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Payments.CheckMoneyOrder\plugin.json
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Payments.Manual\Nop.Plugin.Payments.Manual.deps.json
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Payments.Manual\plugin.json
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Payments.PayPalStandard\Nop.Plugin.Payments.PayPalStandard.deps.json
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Payments.PayPalStandard\plugin.json
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Payments.Qualpay\appsettings.json
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Payments.Qualpay\App_Data\api-token-signing-key.json
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Payments.Qualpay\App_Data\dataSettings.json
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Payments.Qualpay\App_Data\plugins.json
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Payments.Qualpay\Nop.Plugin.Payments.Qualpay.deps.json
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Payments.Qualpay\plugin.json
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Payments.Qualpay\Properties\launchSettings.json
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Payments.Qualpay\Themes\DefaultClean\theme.json
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Payments.Square\appsettings.json
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Payments.Square\App_Data\api-token-signing-key.json
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Payments.Square\App_Data\dataSettings.json
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Payments.Square\App_Data\plugins.json
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Payments.Square\Nop.Plugin.Payments.Square.deps.json
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Payments.Square\plugin.json
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Payments.Square\Properties\launchSettings.json
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Payments.Square\Themes\DefaultClean\theme.json
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Pickup.PickupInStore\Nop.Plugin.Pickup.PickupInStore.deps.json
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Pickup.PickupInStore\plugin.json
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Shipping.FixedByWeightByTotal\Nop.Plugin.Shipping.FixedByWeightByTotal.deps.json
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Shipping.FixedByWeightByTotal\plugin.json
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Shipping.UPS\Nop.Plugin.Shipping.UPS.deps.json
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Shipping.UPS\plugin.json
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Tax.Avalara\appsettings.json
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Tax.Avalara\App_Data\api-token-signing-key.json
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Tax.Avalara\App_Data\dataSettings.json
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Tax.Avalara\App_Data\plugins.json
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Tax.Avalara\Nop.Plugin.Tax.Avalara.deps.json
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Tax.Avalara\plugin.json
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Tax.Avalara\Properties\launchSettings.json
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Tax.Avalara\Themes\DefaultClean\theme.json
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Tax.FixedOrByCountryStateZip\Nop.Plugin.Tax.FixedOrByCountryStateZip.deps.json
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Tax.FixedOrByCountryStateZip\plugin.json
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Widgets.GoogleAnalytics\Nop.Plugin.Widgets.GoogleAnalytics.deps.json
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Widgets.GoogleAnalytics\plugin.json
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Widgets.NivoSlider\Nop.Plugin.Widgets.NivoSlider.deps.json
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Widgets.NivoSlider\plugin.json
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Themes\DefaultClean\theme.json
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Nop.Web.deps.json
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Nop.Web.runtimeconfig.json
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Nop.Web.runtimeconfig.dev.json
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\obj\Debug\netcoreapp2.2\Nop.Web.csproj.CopyComplete
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\App_Data\api-token-signing-key.json
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\App_Data\dataSettings.json
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\App_Data\plugins.json
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Areas\Admin\sitemap.config
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\web.config
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\App_Data\api-token-signing-key.json
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\App_Data\dataSettings.json
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\App_Data\plugins.json
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\ExchangeRate.EcbExchange\Nop.Plugin.ExchangeRate.EcbExchange.deps.json
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\ExchangeRate.EcbExchange\plugin.json
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Payments.Manual\plugin.json
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Themes\DefaultClean\theme.json
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Nop.Web.deps.json
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Nop.Web.runtimeconfig.json
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Nop.Web.runtimeconfig.dev.json
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Nop.Web.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Nop.Web.pdb
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Autofac.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Autofac.Extensions.DependencyInjection.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\AutoMapper.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\dotnet-bundle.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Castle.Core.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\EasyCaching.Core.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\EasyCaching.InMemory.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\EPPlus.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\FluentValidation.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\FluentValidation.AspNetCore.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Humanizer.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\iTextSharp.LGPLv2.Core.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\MaxMind.Db.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\MaxMind.GeoIP2.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\System.Net.Http.Formatting.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Antiforgery.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Authentication.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Authentication.Cookies.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Authentication.Facebook.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Authentication.Google.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Authentication.MicrosoftAccount.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Authentication.OAuth.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Authentication.Twitter.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Authentication.WsFederation.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.CookiePolicy.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Cors.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.DataProtection.Extensions.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.DataProtection.Redis.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Diagnostics.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.HostFiltering.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Hosting.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Http.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Http.Connections.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.HttpOverrides.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.HttpsPolicy.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Identity.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Localization.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Localization.Routing.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Mvc.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.NodeServices.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Owin.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Razor.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.ResponseCaching.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.ResponseCompression.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Rewrite.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Routing.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Server.HttpSys.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Server.IIS.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Session.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.SignalR.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.SignalR.Core.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.SpaServices.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.SpaServices.Extensions.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.StaticFiles.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.WebSockets.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.CodeAnalysis.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.EntityFrameworkCore.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Caching.SqlServer.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Configuration.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Configuration.Ini.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Configuration.KeyPerFile.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Configuration.Xml.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Hosting.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Http.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Localization.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Logging.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Logging.Console.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Logging.TraceSource.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.Extensions.ObjectPool.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Options.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Options.DataAnnotations.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Primitives.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.Extensions.WebEncoders.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.IdentityModel.Logging.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.IdentityModel.Protocols.WsFederation.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.IdentityModel.Tokens.Saml.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.IdentityModel.Xml.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.Net.Http.Headers.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.Win32.SystemEvents.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\MiniProfiler.AspNetCore.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\MiniProfiler.AspNetCore.Mvc.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\MiniProfiler.EntityFrameworkCore.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\MiniProfiler.Shared.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Newtonsoft.Json.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Newtonsoft.Json.Bson.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\NUglify.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\BouncyCastle.Crypto.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\RedLockNet.Abstractions.StrongName.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\RedLockNet.SERedis.StrongName.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Remotion.Linq.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\SixLabors.Core.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\SixLabors.ImageSharp.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\StackExchange.Redis.StrongName.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\System.Data.SqlClient.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\System.Drawing.Common.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\System.Interactive.Async.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\System.IO.Pipelines.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\System.Linq.Dynamic.Core.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\System.Net.WebSockets.WebSocketProtocol.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\System.Security.Cryptography.Pkcs.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\System.Security.Cryptography.Xml.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\System.Security.Permissions.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\System.ServiceModel.Http.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\System.ServiceModel.Primitives.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\System.ServiceModel.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\System.Text.Encoding.CodePages.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\System.Text.Encodings.Web.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\System.Threading.Channels.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\System.Xml.XPath.XmlDocument.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\WebMarkupMin.AspNet.Common.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\WebMarkupMin.AspNetCore2.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\WebMarkupMin.Core.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\WebMarkupMin.NUglify.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Microsoft.WindowsAzure.Storage.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\af\Humanizer.resources.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\ar\Humanizer.resources.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\bg\Humanizer.resources.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\bn-BD\Humanizer.resources.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\cs\Humanizer.resources.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\da\Humanizer.resources.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\de\Humanizer.resources.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\el\Humanizer.resources.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\es\Humanizer.resources.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\fa\Humanizer.resources.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\fi-FI\Humanizer.resources.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\fr\Humanizer.resources.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\fr-BE\Humanizer.resources.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\he\Humanizer.resources.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\hr\Humanizer.resources.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\hu\Humanizer.resources.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\id\Humanizer.resources.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\it\Humanizer.resources.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\ja\Humanizer.resources.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\lv\Humanizer.resources.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\ms-MY\Humanizer.resources.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\mt\Humanizer.resources.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\nb\Humanizer.resources.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\nb-NO\Humanizer.resources.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\nl\Humanizer.resources.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\pl\Humanizer.resources.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\pt\Humanizer.resources.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\ro\Humanizer.resources.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\ru\Humanizer.resources.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\sk\Humanizer.resources.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\sl\Humanizer.resources.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\sr\Humanizer.resources.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\sr-Latn\Humanizer.resources.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\sv\Humanizer.resources.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\tr\Humanizer.resources.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\uk\Humanizer.resources.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\vi\Humanizer.resources.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\zh-CN\Humanizer.resources.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\zh-Hans\Humanizer.resources.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\zh-Hant\Humanizer.resources.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\runtimes\win-x64\nativeassets\netcoreapp2.2\aspnetcorev2_inprocess.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\runtimes\win-x86\nativeassets\netcoreapp2.2\aspnetcorev2_inprocess.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\runtimes\win\lib\netcoreapp2.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\runtimes\win-arm64\native\sni.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\runtimes\win-x64\native\sni.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\runtimes\win-x86\native\sni.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\runtimes\unix\lib\netcoreapp2.0\System.Drawing.Common.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\runtimes\win\lib\netcoreapp2.0\System.Drawing.Common.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\runtimes\unix\lib\netstandard2.0\System.Private.ServiceModel.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\runtimes\win\lib\netstandard2.0\System.Private.ServiceModel.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\runtimes\win\lib\netcoreapp2.1\System.Security.Cryptography.Pkcs.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Nop.Core.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Nop.Data.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Nop.Services.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Nop.Web.Framework.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Nop.Core.pdb
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Nop.Data.pdb
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Nop.Services.pdb
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Nop.Web.Framework.pdb
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\obj\Debug\netcoreapp2.2\Nop.Web.csprojAssemblyReference.cache
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\obj\Debug\netcoreapp2.2\Nop.Web.AssemblyInfoInputs.cache
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\obj\Debug\netcoreapp2.2\Nop.Web.AssemblyInfo.cs
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\obj\Debug\netcoreapp2.2\Nop.Web.csproj.CopyComplete
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\obj\Debug\netcoreapp2.2\Nop.Web.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\obj\Debug\netcoreapp2.2\Nop.Web.pdb
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Payments.Qualpay\Areas\Admin\sitemap.config
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Payments.Qualpay\web.config
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Payments.Square\Areas\Admin\sitemap.config
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Payments.Square\web.config
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Tax.Avalara\Areas\Admin\sitemap.config
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Tax.Avalara\web.config
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\DiscountRules.CustomerRoles\Nop.Plugin.DiscountRules.CustomerRoles.deps.json
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\DiscountRules.CustomerRoles\plugin.json
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\ExternalAuth.Facebook\Nop.Plugin.ExternalAuth.Facebook.deps.json
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\ExternalAuth.Facebook\plugin.json
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Misc.SendinBlue\Nop.Plugin.Misc.SendinBlue.deps.json
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Misc.SendinBlue\plugin.json
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Nop.Plugin.Api\Nop.Plugin.Api.deps.json
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Nop.Plugin.Api\plugin.json
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Payments.CheckMoneyOrder\Nop.Plugin.Payments.CheckMoneyOrder.deps.json
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Payments.CheckMoneyOrder\plugin.json
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Payments.Manual\Nop.Plugin.Payments.Manual.deps.json
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Payments.PayPalStandard\Nop.Plugin.Payments.PayPalStandard.deps.json
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Payments.PayPalStandard\plugin.json
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Payments.Qualpay\appsettings.json
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Payments.Qualpay\App_Data\api-token-signing-key.json
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Payments.Qualpay\App_Data\dataSettings.json
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Payments.Qualpay\App_Data\plugins.json
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Payments.Qualpay\Nop.Plugin.Payments.Qualpay.deps.json
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Payments.Qualpay\plugin.json
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Payments.Qualpay\Plugins\ExchangeRate.EcbExchange\Nop.Plugin.ExchangeRate.EcbExchange.deps.json
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Payments.Qualpay\Plugins\ExchangeRate.EcbExchange\plugin.json
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Payments.Qualpay\Plugins\Payments.Manual\plugin.json
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Payments.Qualpay\Properties\launchSettings.json
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Payments.Qualpay\Themes\DefaultClean\theme.json
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Payments.Square\appsettings.json
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Payments.Square\App_Data\api-token-signing-key.json
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Payments.Square\App_Data\dataSettings.json
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Payments.Square\App_Data\plugins.json
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Payments.Square\Nop.Plugin.Payments.Square.deps.json
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Payments.Square\plugin.json
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Payments.Square\Plugins\ExchangeRate.EcbExchange\Nop.Plugin.ExchangeRate.EcbExchange.deps.json
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Payments.Square\Plugins\ExchangeRate.EcbExchange\plugin.json
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Payments.Square\Plugins\Payments.Manual\plugin.json
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Payments.Square\Properties\launchSettings.json
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Payments.Square\Themes\DefaultClean\theme.json
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Pickup.PickupInStore\Nop.Plugin.Pickup.PickupInStore.deps.json
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Pickup.PickupInStore\plugin.json
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Shipping.FixedByWeightByTotal\Nop.Plugin.Shipping.FixedByWeightByTotal.deps.json
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Shipping.FixedByWeightByTotal\plugin.json
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Shipping.UPS\Nop.Plugin.Shipping.UPS.deps.json
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Shipping.UPS\plugin.json
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Tax.Avalara\appsettings.json
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Tax.Avalara\App_Data\api-token-signing-key.json
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Tax.Avalara\App_Data\dataSettings.json
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Tax.Avalara\App_Data\plugins.json
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Tax.Avalara\Nop.Plugin.Tax.Avalara.deps.json
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Tax.Avalara\plugin.json
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Tax.Avalara\Plugins\ExchangeRate.EcbExchange\Nop.Plugin.ExchangeRate.EcbExchange.deps.json
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Tax.Avalara\Plugins\ExchangeRate.EcbExchange\plugin.json
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Tax.Avalara\Plugins\Payments.Manual\plugin.json
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Tax.Avalara\Properties\launchSettings.json
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Tax.Avalara\Themes\DefaultClean\theme.json
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Tax.FixedOrByCountryStateZip\Nop.Plugin.Tax.FixedOrByCountryStateZip.deps.json
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Tax.FixedOrByCountryStateZip\plugin.json
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Widgets.GoogleAnalytics\Nop.Plugin.Widgets.GoogleAnalytics.deps.json
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Widgets.GoogleAnalytics\plugin.json
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Widgets.NivoSlider\Nop.Plugin.Widgets.NivoSlider.deps.json
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\bin\Debug\netcoreapp2.2\Plugins\Widgets.NivoSlider\plugin.json

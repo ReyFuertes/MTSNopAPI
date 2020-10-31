@@ -1,0 +1,42 @@
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\Plugins\Widgets.GoogleAnalytics\logo.jpg
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\Plugins\Widgets.GoogleAnalytics\plugin.json
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\Plugins\Widgets.GoogleAnalytics\Views\Configure.cshtml
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\Plugins\Widgets.GoogleAnalytics\Views\PublicInfo.cshtml
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\Plugins\Widgets.GoogleAnalytics\Views\_ViewImports.cshtml
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\Plugins\Widgets.GoogleAnalytics\Nop.Plugin.Widgets.GoogleAnalytics.deps.json
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\Plugins\Widgets.GoogleAnalytics\Nop.Plugin.Widgets.GoogleAnalytics.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\Plugins\Widgets.GoogleAnalytics\Nop.Plugin.Widgets.GoogleAnalytics.pdb
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Plugins\Nop.Plugin.Widgets.GoogleAnalytics\obj\Debug\netcoreapp2.2\Nop.Plugin.Widgets.GoogleAnalytics.csprojAssemblyReference.cache
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Plugins\Nop.Plugin.Widgets.GoogleAnalytics\obj\Debug\netcoreapp2.2\Nop.Plugin.Widgets.GoogleAnalytics.AssemblyInfoInputs.cache
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Plugins\Nop.Plugin.Widgets.GoogleAnalytics\obj\Debug\netcoreapp2.2\Nop.Plugin.Widgets.GoogleAnalytics.AssemblyInfo.cs
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Plugins\Nop.Plugin.Widgets.GoogleAnalytics\obj\Debug\netcoreapp2.2\Nop.Plugin.Widgets.GoogleAnalytics.csproj.CopyComplete
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Plugins\Nop.Plugin.Widgets.GoogleAnalytics\obj\Debug\netcoreapp2.2\Nop.Plugin.Widgets.GoogleAnalytics.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Plugins\Nop.Plugin.Widgets.GoogleAnalytics\obj\Debug\netcoreapp2.2\Nop.Plugin.Widgets.GoogleAnalytics.pdb
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\Plugins\Widgets.GoogleAnalytics\logo.jpg
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\Plugins\Widgets.GoogleAnalytics\plugin.json
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\Plugins\Widgets.GoogleAnalytics\Views\Configure.cshtml
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\Plugins\Widgets.GoogleAnalytics\Views\PublicInfo.cshtml
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\Plugins\Widgets.GoogleAnalytics\Views\_ViewImports.cshtml
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\Plugins\Widgets.GoogleAnalytics\Nop.Plugin.Widgets.GoogleAnalytics.deps.json
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\Plugins\Widgets.GoogleAnalytics\Nop.Plugin.Widgets.GoogleAnalytics.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\Plugins\Widgets.GoogleAnalytics\Nop.Plugin.Widgets.GoogleAnalytics.pdb
+D:\MTSNopcommercebackup\src\Plugins\Nop.Plugin.Widgets.GoogleAnalytics\obj\Debug\netcoreapp2.2\Nop.Plugin.Widgets.GoogleAnalytics.csprojAssemblyReference.cache
+D:\MTSNopcommercebackup\src\Plugins\Nop.Plugin.Widgets.GoogleAnalytics\obj\Debug\netcoreapp2.2\Nop.Plugin.Widgets.GoogleAnalytics.AssemblyInfoInputs.cache
+D:\MTSNopcommercebackup\src\Plugins\Nop.Plugin.Widgets.GoogleAnalytics\obj\Debug\netcoreapp2.2\Nop.Plugin.Widgets.GoogleAnalytics.AssemblyInfo.cs
+D:\MTSNopcommercebackup\src\Plugins\Nop.Plugin.Widgets.GoogleAnalytics\obj\Debug\netcoreapp2.2\Nop.Plugin.Widgets.GoogleAnalytics.csproj.CopyComplete
+D:\MTSNopcommercebackup\src\Plugins\Nop.Plugin.Widgets.GoogleAnalytics\obj\Debug\netcoreapp2.2\Nop.Plugin.Widgets.GoogleAnalytics.dll
+D:\MTSNopcommercebackup\src\Plugins\Nop.Plugin.Widgets.GoogleAnalytics\obj\Debug\netcoreapp2.2\Nop.Plugin.Widgets.GoogleAnalytics.pdb
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\Plugins\Widgets.GoogleAnalytics\logo.jpg
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\Plugins\Widgets.GoogleAnalytics\plugin.json
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\Plugins\Widgets.GoogleAnalytics\Views\Configure.cshtml
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\Plugins\Widgets.GoogleAnalytics\Views\PublicInfo.cshtml
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\Plugins\Widgets.GoogleAnalytics\Views\_ViewImports.cshtml
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\Plugins\Widgets.GoogleAnalytics\Nop.Plugin.Widgets.GoogleAnalytics.deps.json
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\Plugins\Widgets.GoogleAnalytics\Nop.Plugin.Widgets.GoogleAnalytics.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\Plugins\Widgets.GoogleAnalytics\Nop.Plugin.Widgets.GoogleAnalytics.pdb
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Plugins\Nop.Plugin.Widgets.GoogleAnalytics\obj\Debug\netcoreapp2.2\Nop.Plugin.Widgets.GoogleAnalytics.csprojAssemblyReference.cache
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Plugins\Nop.Plugin.Widgets.GoogleAnalytics\obj\Debug\netcoreapp2.2\Nop.Plugin.Widgets.GoogleAnalytics.AssemblyInfoInputs.cache
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Plugins\Nop.Plugin.Widgets.GoogleAnalytics\obj\Debug\netcoreapp2.2\Nop.Plugin.Widgets.GoogleAnalytics.AssemblyInfo.cs
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Plugins\Nop.Plugin.Widgets.GoogleAnalytics\obj\Debug\netcoreapp2.2\Nop.Plugin.Widgets.GoogleAnalytics.csproj.CopyComplete
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Plugins\Nop.Plugin.Widgets.GoogleAnalytics\obj\Debug\netcoreapp2.2\Nop.Plugin.Widgets.GoogleAnalytics.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Plugins\Nop.Plugin.Widgets.GoogleAnalytics\obj\Debug\netcoreapp2.2\Nop.Plugin.Widgets.GoogleAnalytics.pdb

@@ -1,0 +1,71 @@
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\Plugins\Payments.Square\Areas\Admin\sitemap.config
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\Plugins\Payments.Square\web.config
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\Plugins\Payments.Square\appsettings.json
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\Plugins\Payments.Square\App_Data\dataSettings.json
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\Plugins\Payments.Square\App_Data\plugins.json
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\Plugins\Payments.Square\Properties\launchSettings.json
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\Plugins\Payments.Square\Themes\DefaultClean\theme.json
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\Plugins\Payments.Square\Content\styles.css
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\Plugins\Payments.Square\logo.png
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\Plugins\Payments.Square\plugin.json
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\Plugins\Payments.Square\Views\Configure.cshtml
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\Plugins\Payments.Square\Views\PaymentInfo.cshtml
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\Plugins\Payments.Square\Views\_ViewImports.cshtml
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\Plugins\Payments.Square\Nop.Plugin.Payments.Square.deps.json
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\Plugins\Payments.Square\Nop.Plugin.Payments.Square.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\Plugins\Payments.Square\Nop.Plugin.Payments.Square.pdb
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Plugins\Nop.Plugin.Payments.Square\obj\Debug\netcoreapp2.2\Nop.Plugin.Payments.Square.csprojAssemblyReference.cache
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Plugins\Nop.Plugin.Payments.Square\obj\Debug\netcoreapp2.2\Nop.Plugin.Payments.Square.AssemblyInfoInputs.cache
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Plugins\Nop.Plugin.Payments.Square\obj\Debug\netcoreapp2.2\Nop.Plugin.Payments.Square.AssemblyInfo.cs
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Plugins\Nop.Plugin.Payments.Square\obj\Debug\netcoreapp2.2\Nop.Plugin.Payments.Square.csproj.CopyComplete
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Plugins\Nop.Plugin.Payments.Square\obj\Debug\netcoreapp2.2\Nop.Plugin.Payments.Square.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Plugins\Nop.Plugin.Payments.Square\obj\Debug\netcoreapp2.2\Nop.Plugin.Payments.Square.pdb
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\Plugins\Payments.Square\Areas\Admin\sitemap.config
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\Plugins\Payments.Square\web.config
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\Plugins\Payments.Square\appsettings.json
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\Plugins\Payments.Square\App_Data\api-token-signing-key.json
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\Plugins\Payments.Square\App_Data\dataSettings.json
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\Plugins\Payments.Square\App_Data\plugins.json
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\Plugins\Payments.Square\Properties\launchSettings.json
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\Plugins\Payments.Square\Themes\DefaultClean\theme.json
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\Plugins\Payments.Square\Content\styles.css
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\Plugins\Payments.Square\logo.png
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\Plugins\Payments.Square\plugin.json
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\Plugins\Payments.Square\Views\Configure.cshtml
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\Plugins\Payments.Square\Views\PaymentInfo.cshtml
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\Plugins\Payments.Square\Views\_ViewImports.cshtml
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\Plugins\Payments.Square\Nop.Plugin.Payments.Square.deps.json
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\Plugins\Payments.Square\Nop.Plugin.Payments.Square.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\Plugins\Payments.Square\Nop.Plugin.Payments.Square.pdb
+D:\MTSNopcommercebackup\src\Plugins\Nop.Plugin.Payments.Square\obj\Debug\netcoreapp2.2\Nop.Plugin.Payments.Square.csprojAssemblyReference.cache
+D:\MTSNopcommercebackup\src\Plugins\Nop.Plugin.Payments.Square\obj\Debug\netcoreapp2.2\Nop.Plugin.Payments.Square.AssemblyInfoInputs.cache
+D:\MTSNopcommercebackup\src\Plugins\Nop.Plugin.Payments.Square\obj\Debug\netcoreapp2.2\Nop.Plugin.Payments.Square.AssemblyInfo.cs
+D:\MTSNopcommercebackup\src\Plugins\Nop.Plugin.Payments.Square\obj\Debug\netcoreapp2.2\Nop.Plugin.Payments.Square.csproj.CopyComplete
+D:\MTSNopcommercebackup\src\Plugins\Nop.Plugin.Payments.Square\obj\Debug\netcoreapp2.2\Nop.Plugin.Payments.Square.dll
+D:\MTSNopcommercebackup\src\Plugins\Nop.Plugin.Payments.Square\obj\Debug\netcoreapp2.2\Nop.Plugin.Payments.Square.pdb
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\Plugins\Payments.Square\Areas\Admin\sitemap.config
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\Plugins\Payments.Square\web.config
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\Plugins\Payments.Square\appsettings.json
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\Plugins\Payments.Square\App_Data\api-token-signing-key.json
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\Plugins\Payments.Square\App_Data\dataSettings.json
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\Plugins\Payments.Square\App_Data\plugins.json
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\Plugins\Payments.Square\Plugins\ExchangeRate.EcbExchange\Nop.Plugin.ExchangeRate.EcbExchange.deps.json
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\Plugins\Payments.Square\Plugins\ExchangeRate.EcbExchange\plugin.json
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\Plugins\Payments.Square\Plugins\Payments.Manual\plugin.json
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\Plugins\Payments.Square\Properties\launchSettings.json
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\Plugins\Payments.Square\Themes\DefaultClean\theme.json
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\Plugins\Payments.Square\Content\styles.css
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\Plugins\Payments.Square\logo.png
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\Plugins\Payments.Square\plugin.json
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\Plugins\Payments.Square\Views\Configure.cshtml
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\Plugins\Payments.Square\Views\PaymentInfo.cshtml
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\Plugins\Payments.Square\Views\_ViewImports.cshtml
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\Plugins\Payments.Square\Nop.Plugin.Payments.Square.deps.json
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\Plugins\Payments.Square\Nop.Plugin.Payments.Square.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\Plugins\Payments.Square\Nop.Plugin.Payments.Square.pdb
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Plugins\Nop.Plugin.Payments.Square\obj\Debug\netcoreapp2.2\Nop.Plugin.Payments.Square.csprojAssemblyReference.cache
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Plugins\Nop.Plugin.Payments.Square\obj\Debug\netcoreapp2.2\Nop.Plugin.Payments.Square.AssemblyInfoInputs.cache
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Plugins\Nop.Plugin.Payments.Square\obj\Debug\netcoreapp2.2\Nop.Plugin.Payments.Square.AssemblyInfo.cs
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Plugins\Nop.Plugin.Payments.Square\obj\Debug\netcoreapp2.2\Nop.Plugin.Payments.Square.csproj.CopyComplete
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Plugins\Nop.Plugin.Payments.Square\obj\Debug\netcoreapp2.2\Nop.Plugin.Payments.Square.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Plugins\Nop.Plugin.Payments.Square\obj\Debug\netcoreapp2.2\Nop.Plugin.Payments.Square.pdb

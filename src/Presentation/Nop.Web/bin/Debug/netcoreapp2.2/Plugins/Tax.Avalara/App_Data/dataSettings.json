@@ -1,0 +1,6 @@
+﻿{
+  "DataProvider": "sqlserver",
+  //"DataConnectionString": "Data Source=(localdb)\\MSSQLLocalDB;Initial Catalog=MtsLocalDatabase;Integrated Security=True;Persist Security Info=False",
+  "DataConnectionString": "Data Source=mtsdbserver.database.windows.net;Initial Catalog=mtsdev;Integrated Security=False;Persist Security Info=False;User ID=mtsdbadmin;Password=P@ssw0rd",
+  "RawDataSettings": {}
+}

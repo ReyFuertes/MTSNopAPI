@@ -1,0 +1,33 @@
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Libraries\Nop.Data\bin\Debug\netcoreapp2.2\Nop.Data.deps.json
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Libraries\Nop.Data\bin\Debug\netcoreapp2.2\Nop.Data.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Libraries\Nop.Data\bin\Debug\netcoreapp2.2\Nop.Data.pdb
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Libraries\Nop.Data\bin\Debug\netcoreapp2.2\Nop.Core.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Libraries\Nop.Data\bin\Debug\netcoreapp2.2\Nop.Core.pdb
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Libraries\Nop.Data\obj\Debug\netcoreapp2.2\Nop.Data.csprojAssemblyReference.cache
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Libraries\Nop.Data\obj\Debug\netcoreapp2.2\Nop.Data.AssemblyInfoInputs.cache
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Libraries\Nop.Data\obj\Debug\netcoreapp2.2\Nop.Data.AssemblyInfo.cs
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Libraries\Nop.Data\obj\Debug\netcoreapp2.2\Nop.Data.csproj.CopyComplete
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Libraries\Nop.Data\obj\Debug\netcoreapp2.2\Nop.Data.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Libraries\Nop.Data\obj\Debug\netcoreapp2.2\Nop.Data.pdb
+D:\MTSNopcommercebackup\src\Libraries\Nop.Data\bin\Debug\netcoreapp2.2\Nop.Data.deps.json
+D:\MTSNopcommercebackup\src\Libraries\Nop.Data\bin\Debug\netcoreapp2.2\Nop.Data.dll
+D:\MTSNopcommercebackup\src\Libraries\Nop.Data\bin\Debug\netcoreapp2.2\Nop.Data.pdb
+D:\MTSNopcommercebackup\src\Libraries\Nop.Data\bin\Debug\netcoreapp2.2\Nop.Core.dll
+D:\MTSNopcommercebackup\src\Libraries\Nop.Data\bin\Debug\netcoreapp2.2\Nop.Core.pdb
+D:\MTSNopcommercebackup\src\Libraries\Nop.Data\obj\Debug\netcoreapp2.2\Nop.Data.csprojAssemblyReference.cache
+D:\MTSNopcommercebackup\src\Libraries\Nop.Data\obj\Debug\netcoreapp2.2\Nop.Data.AssemblyInfoInputs.cache
+D:\MTSNopcommercebackup\src\Libraries\Nop.Data\obj\Debug\netcoreapp2.2\Nop.Data.AssemblyInfo.cs
+D:\MTSNopcommercebackup\src\Libraries\Nop.Data\obj\Debug\netcoreapp2.2\Nop.Data.csproj.CopyComplete
+D:\MTSNopcommercebackup\src\Libraries\Nop.Data\obj\Debug\netcoreapp2.2\Nop.Data.dll
+D:\MTSNopcommercebackup\src\Libraries\Nop.Data\obj\Debug\netcoreapp2.2\Nop.Data.pdb
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Libraries\Nop.Data\bin\Debug\netcoreapp2.2\Nop.Data.deps.json
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Libraries\Nop.Data\bin\Debug\netcoreapp2.2\Nop.Data.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Libraries\Nop.Data\bin\Debug\netcoreapp2.2\Nop.Data.pdb
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Libraries\Nop.Data\bin\Debug\netcoreapp2.2\Nop.Core.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Libraries\Nop.Data\bin\Debug\netcoreapp2.2\Nop.Core.pdb
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Libraries\Nop.Data\obj\Debug\netcoreapp2.2\Nop.Data.csprojAssemblyReference.cache
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Libraries\Nop.Data\obj\Debug\netcoreapp2.2\Nop.Data.AssemblyInfoInputs.cache
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Libraries\Nop.Data\obj\Debug\netcoreapp2.2\Nop.Data.AssemblyInfo.cs
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Libraries\Nop.Data\obj\Debug\netcoreapp2.2\Nop.Data.csproj.CopyComplete
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Libraries\Nop.Data\obj\Debug\netcoreapp2.2\Nop.Data.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Libraries\Nop.Data\obj\Debug\netcoreapp2.2\Nop.Data.pdb

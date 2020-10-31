@@ -1,0 +1,54 @@
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\Plugins\Nop.Plugin.Api\logo.jpg
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\Plugins\Nop.Plugin.Api\plugin.json
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\Plugins\Nop.Plugin.Api\Views\Clients\ClientSettings.cshtml
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\Plugins\Nop.Plugin.Api\Views\Clients\Create.cshtml
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\Plugins\Nop.Plugin.Api\Views\Clients\CreateOrUpdate.cshtml
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\Plugins\Nop.Plugin.Api\Views\Clients\Edit.cshtml
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\Plugins\Nop.Plugin.Api\Views\Clients\List.cshtml
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\Plugins\Nop.Plugin.Api\Views\Settings.cshtml
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\Plugins\Nop.Plugin.Api\Views\_ViewImports.cshtml
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\Plugins\Nop.Plugin.Api\Nop.Plugin.Api.deps.json
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\Plugins\Nop.Plugin.Api\Nop.Plugin.Api.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Presentation\Nop.Web\Plugins\Nop.Plugin.Api\Nop.Plugin.Api.pdb
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Plugins\Nop.Plugin.Api\obj\Debug\netcoreapp2.2\Nop.Plugin.Api.csprojAssemblyReference.cache
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Plugins\Nop.Plugin.Api\obj\Debug\netcoreapp2.2\Nop.Plugin.Api.AssemblyInfoInputs.cache
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Plugins\Nop.Plugin.Api\obj\Debug\netcoreapp2.2\Nop.Plugin.Api.AssemblyInfo.cs
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Plugins\Nop.Plugin.Api\obj\Debug\netcoreapp2.2\Nop.Plugin.Api.csproj.CopyComplete
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Plugins\Nop.Plugin.Api\obj\Debug\netcoreapp2.2\Nop.Plugin.Api.dll
+D:\MTS (new) backup\nopCommerce_4.20_Source\src\Plugins\Nop.Plugin.Api\obj\Debug\netcoreapp2.2\Nop.Plugin.Api.pdb
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\Plugins\Nop.Plugin.Api\logo.jpg
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\Plugins\Nop.Plugin.Api\plugin.json
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\Plugins\Nop.Plugin.Api\Views\Clients\ClientSettings.cshtml
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\Plugins\Nop.Plugin.Api\Views\Clients\Create.cshtml
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\Plugins\Nop.Plugin.Api\Views\Clients\CreateOrUpdate.cshtml
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\Plugins\Nop.Plugin.Api\Views\Clients\Edit.cshtml
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\Plugins\Nop.Plugin.Api\Views\Clients\List.cshtml
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\Plugins\Nop.Plugin.Api\Views\Settings.cshtml
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\Plugins\Nop.Plugin.Api\Views\_ViewImports.cshtml
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\Plugins\Nop.Plugin.Api\Nop.Plugin.Api.deps.json
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\Plugins\Nop.Plugin.Api\Nop.Plugin.Api.dll
+D:\MTSNopcommercebackup\src\Presentation\Nop.Web\Plugins\Nop.Plugin.Api\Nop.Plugin.Api.pdb
+D:\MTSNopcommercebackup\src\Plugins\Nop.Plugin.Api\obj\Debug\netcoreapp2.2\Nop.Plugin.Api.csprojAssemblyReference.cache
+D:\MTSNopcommercebackup\src\Plugins\Nop.Plugin.Api\obj\Debug\netcoreapp2.2\Nop.Plugin.Api.AssemblyInfoInputs.cache
+D:\MTSNopcommercebackup\src\Plugins\Nop.Plugin.Api\obj\Debug\netcoreapp2.2\Nop.Plugin.Api.AssemblyInfo.cs
+D:\MTSNopcommercebackup\src\Plugins\Nop.Plugin.Api\obj\Debug\netcoreapp2.2\Nop.Plugin.Api.csproj.CopyComplete
+D:\MTSNopcommercebackup\src\Plugins\Nop.Plugin.Api\obj\Debug\netcoreapp2.2\Nop.Plugin.Api.dll
+D:\MTSNopcommercebackup\src\Plugins\Nop.Plugin.Api\obj\Debug\netcoreapp2.2\Nop.Plugin.Api.pdb
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\Plugins\Nop.Plugin.Api\logo.jpg
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\Plugins\Nop.Plugin.Api\plugin.json
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\Plugins\Nop.Plugin.Api\Views\Clients\ClientSettings.cshtml
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\Plugins\Nop.Plugin.Api\Views\Clients\Create.cshtml
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\Plugins\Nop.Plugin.Api\Views\Clients\CreateOrUpdate.cshtml
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\Plugins\Nop.Plugin.Api\Views\Clients\Edit.cshtml
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\Plugins\Nop.Plugin.Api\Views\Clients\List.cshtml
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\Plugins\Nop.Plugin.Api\Views\Settings.cshtml
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\Plugins\Nop.Plugin.Api\Views\_ViewImports.cshtml
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\Plugins\Nop.Plugin.Api\Nop.Plugin.Api.deps.json
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\Plugins\Nop.Plugin.Api\Nop.Plugin.Api.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Presentation\Nop.Web\Plugins\Nop.Plugin.Api\Nop.Plugin.Api.pdb
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Plugins\Nop.Plugin.Api\obj\Debug\netcoreapp2.2\Nop.Plugin.Api.csprojAssemblyReference.cache
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Plugins\Nop.Plugin.Api\obj\Debug\netcoreapp2.2\Nop.Plugin.Api.AssemblyInfoInputs.cache
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Plugins\Nop.Plugin.Api\obj\Debug\netcoreapp2.2\Nop.Plugin.Api.AssemblyInfo.cs
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Plugins\Nop.Plugin.Api\obj\Debug\netcoreapp2.2\Nop.Plugin.Api.csproj.CopyComplete
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Plugins\Nop.Plugin.Api\obj\Debug\netcoreapp2.2\Nop.Plugin.Api.dll
+C:\Users\Rfuertes\Desktop\Guko\MTSNopCommerce\src\Plugins\Nop.Plugin.Api\obj\Debug\netcoreapp2.2\Nop.Plugin.Api.pdb
